@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>320157b4-a3ac-42b1-bcdd-4d0e6e79829d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Copy_files_with_file_paths.py</StartupFile>
+    <StartupFile>copy_files_with_file_paths.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Copy_files_with_file_paths.py" />
+    <Compile Include="copy_files_with_file_paths.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
